@@ -1,0 +1,9 @@
+{
+"loanDetails":{
+"amount":"10000",
+"downPayment":"1000"
+},
+"negativeLoan":{
+"amount":"-500"
+}
+}

@@ -1,0 +1,13 @@
+{
+"billPayment":{
+"payeeName":"John",
+"address":"New York",
+"city":"New York",
+"state":"NY",
+"zipCode":"12345",
+"phone":"9999999999",
+"account":"14121",
+"verifyAccount":"14121",
+"amount":"1000"
+}
+}

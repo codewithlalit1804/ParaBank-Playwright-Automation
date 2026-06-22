@@ -1,0 +1,9 @@
+{
+"transferDetails":{
+"amount":"100"
+},
+"negativeTransfer":{
+"invalidAmount":"-100",
+"invalidAccount":"99999"
+}
+}

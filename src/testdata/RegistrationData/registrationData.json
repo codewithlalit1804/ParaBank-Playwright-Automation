@@ -1,0 +1,109 @@
+{
+  "baseUrl": "https://parabank.parasoft.com/parabank/index.htm",
+  "generatedUserData": [
+    {
+      "firstName": "Myriam",
+      "lastName": "Wiza",
+      "address": "551 Walnut Street",
+      "city": "Port Jerome",
+      "state": "Minnesota",
+      "zipCode": "28286-6666",
+      "phoneNumber": "8752965846",
+      "ssn": "775184791",
+      "username": "George509282",
+      "password": "Test@509282",
+      "confirmPassword": "Test@509282"
+    },
+    {
+      "firstName": "Abelardo",
+      "lastName": "Brakus",
+      "address": "32432 Ash Street",
+      "city": "Lanaworth",
+      "state": "Texas",
+      "zipCode": "52541-5838",
+      "phoneNumber": "6821713781",
+      "ssn": "424525272",
+      "username": "Kareem308368",
+      "password": "Test@308368",
+      "confirmPassword": "Test@308368"
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Boyle",
+      "address": "43229 Clifton Road",
+      "city": "Colorado Springs",
+      "state": "Virginia",
+      "zipCode": "60895-4199",
+      "phoneNumber": "6261791449",
+      "ssn": "338234426",
+      "username": "Jessyca515110",
+      "password": "Test@515110",
+      "confirmPassword": "Test@515110"
+    },
+    {
+      "firstName": "Jettie",
+      "lastName": "Rutherford",
+      "address": "986 Kane Knolls",
+      "city": "Gudrunfield",
+      "state": "New Jersey",
+      "zipCode": "85362-1978",
+      "phoneNumber": "9998181740",
+      "ssn": "656199459",
+      "username": "Filiberto721357",
+      "password": "Test@721357",
+      "confirmPassword": "Test@721357"
+    },
+    {
+      "firstName": "Dedric",
+      "lastName": "Stark",
+      "address": "3552 Hudson Mall",
+      "city": "McCulloughfort",
+      "state": "Kansas",
+      "zipCode": "87458-3446",
+      "phoneNumber": "6526572577",
+      "ssn": "112700023",
+      "username": "Maude269322",
+      "password": "Test@269322",
+      "confirmPassword": "Test@269322"
+    },
+    {
+      "firstName": "Amos",
+      "lastName": "Effertz",
+      "address": "3807 Kevin Mount",
+      "city": "Macon-Bibb County",
+      "state": "Louisiana",
+      "zipCode": "96235-8009",
+      "phoneNumber": "7553129822",
+      "ssn": "514715590",
+      "username": "Alexandria869090",
+      "password": "Test@869090",
+      "confirmPassword": "Test@869090"
+    },
+    {
+      "firstName": "Bennie",
+      "lastName": "Gutmann-Huel",
+      "address": "955 Dickinson Camp",
+      "city": "Heathcotebury",
+      "state": "Iowa",
+      "zipCode": "83810",
+      "phoneNumber": "7692777296",
+      "ssn": "643728530",
+      "username": "Essie636706",
+      "password": "Test@636706",
+      "confirmPassword": "Test@636706"
+    },
+    {
+      "firstName": "Lesley",
+      "lastName": "Lubowitz",
+      "address": "79894 Ash Close",
+      "city": "Franciscaberg",
+      "state": "Indiana",
+      "zipCode": "65129",
+      "phoneNumber": "8933739205",
+      "ssn": "277637828",
+      "username": "Madaline866479",
+      "password": "Test@866479",
+      "confirmPassword": "Test@866479"
+    }
+  ]
+}
