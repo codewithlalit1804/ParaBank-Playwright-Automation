@@ -104,6 +104,19 @@
       "username": "Madaline866479",
       "password": "Test@866479",
       "confirmPassword": "Test@866479"
+    },
+    {
+      "firstName": "Janiya",
+      "lastName": "Swift",
+      "address": "870 Price Lakes",
+      "city": "Rauport",
+      "state": "Washington",
+      "zipCode": "93287-9101",
+      "phoneNumber": "9524931242",
+      "ssn": "882717910",
+      "username": "Bessie621944",
+      "password": "Test@621944",
+      "confirmPassword": "Test@621944"
     }
   ]
 }
